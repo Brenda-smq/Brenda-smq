@@ -32,7 +32,7 @@
 - 🏥 Com-Saude — projeto desenvolvido em HTML
 
 <p align="center">
-  <img src="./setup.png" width="800">
+  <img src="./setup.png" width="600">
 </p>
 ###
 
