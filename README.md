@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou a Brenda 👋
 
-<!--
-**Brenda-smq/Brenda-smq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante e profissional da área de Tecnologia da Informação
 
-Here are some ideas to get you started:
+🔧 Interesse em suporte técnico, infraestrutura e desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente aprimorando meus conhecimentos em programação e TI
+
+## 🛠️ Tecnologias
+
+- C#
+- JavaScript
+- HTML
+- Git e GitHub
+- Windows
+- Excel
+
+## 📂 Projetos
+
+- 🏥 ComSaudeApp — aplicação desenvolvida em C#
+- 🏥 Com-Saude — projeto desenvolvido em HTML
+
+## 🔗 Contato
+
+[LinkedIn](https://www.linkedin.com/in/brenda-moura-tech/)
+
+
