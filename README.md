@@ -31,7 +31,9 @@
 - 🏥 ComSaudeApp — aplicação desenvolvida em C#
 - 🏥 Com-Saude — projeto desenvolvido em HTML
 
-
+<p align="center">
+  <img src="./setup.png" width="800">
+</p>
 ###
 
 <picture align="center">
