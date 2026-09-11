@@ -34,7 +34,7 @@
 <p align="center">
   <img src="./setup.png" width="600">
 </p>
-###
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brenda-smq/Brenda-smq/output/github-contribution-grid-snake-dark.svg">
